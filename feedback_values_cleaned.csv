@@ -1,0 +1,301 @@
+ID,Category,Feedback,Sentiment,Date,cleaned_feedback,sentiment_label
+1,Sanitation,Public toilets need better maintenance.,Negative,08-09-2023,public toilets need better maintenance,0
+2,Road Infrastructure,Potholes on highways are dangerous.,Negative,08-01-2023,potholes on highways are dangerous,0
+3,Digital Services,Government websites often crash during peak hours.,Negative,11-11-2024,government websites often crash during peak hours,0
+4,Water Supply,There should be more awareness about water conservation.,Neutral,23-06-2024,there should be more awareness about water conservation,1
+5,Education,Public libraries need better funding.,Positive,13-08-2024,public libraries need better funding,2
+6,Healthcare,Medicines are often out of stock at government pharmacies.,Neutral,11-05-2023,medicines are often out of stock at government pharmacies,1
+7,Sanitation,Public toilets need better maintenance.,Negative,07-12-2023,public toilets need better maintenance,0
+8,Water Supply,There should be more awareness about water conservation.,Positive,24-02-2024,there should be more awareness about water conservation,2
+9,Electricity,The new solar power initiatives are great.,Negative,04-04-2023,the new solar power initiatives are great,0
+10,Sanitation,Public toilets need better maintenance.,Neutral,19-03-2023,public toilets need better maintenance,1
+11,Education,The new education policy is beneficial for students.,Neutral,01-08-2024,the new education policy is beneficial for students,1
+12,Water Supply,There should be more awareness about water conservation.,Negative,12-12-2024,there should be more awareness about water conservation,0
+13,Public Transport,Buses are always late and overcrowded.,Neutral,14-08-2024,buses are always late and overcrowded,1
+14,Law & Order,There are too many traffic rule violations happening.,Positive,10-12-2023,there are too many traffic rule violations happening,2
+15,Public Transport,Buses are always late and overcrowded.,Positive,13-05-2023,buses are always late and overcrowded,2
+16,Public Welfare,There should be more transparency in government welfare programs.,Neutral,17-11-2024,there should be more transparency in government welfare programs,1
+17,Education,Online learning resources provided by the government are useful.,Negative,21-08-2024,online learning resources provided by the government are useful,0
+18,Education,Online learning resources provided by the government are useful.,Neutral,12-05-2024,online learning resources provided by the government are useful,1
+19,Electricity,The new solar power initiatives are great.,Neutral,19-08-2023,the new solar power initiatives are great,1
+20,Education,The new education policy is beneficial for students.,Positive,19-06-2024,the new education policy is beneficial for students,2
+21,Healthcare,Medicines are often out of stock at government pharmacies.,Negative,04-04-2023,medicines are often out of stock at government pharmacies,0
+22,Digital Services,E-governance services need better customer support.,Neutral,02-06-2023,egovernance services need better customer support,1
+23,Public Transport,Traffic congestion is getting worse due to poor planning.,Positive,16-11-2023,traffic congestion is getting worse due to poor planning,2
+24,Public Welfare,Subsidized food programs help low-income families.,Negative,25-03-2024,subsidized food programs help lowincome families,0
+25,Sanitation,"Sanitation workers do a great job, but they need better equipment.",Positive,01-04-2024,sanitation workers do a great job but they need better equipment,2
+26,Digital Services,The passport application process was smooth and quick.,Positive,12-03-2024,the passport application process was smooth and quick,2
+27,Sanitation,Garbage collection is not regular in our area.,Negative,04-04-2024,garbage collection is not regular in our area,0
+28,Water Supply,Sewage water is mixing with drinking water in some areas.,Neutral,19-12-2024,sewage water is mixing with drinking water in some areas,1
+29,Education,Public libraries need better funding.,Positive,10-05-2023,public libraries need better funding,2
+30,Water Supply,There should be more awareness about water conservation.,Neutral,17-11-2023,there should be more awareness about water conservation,1
+31,Education,The new education policy is beneficial for students.,Neutral,21-02-2024,the new education policy is beneficial for students,1
+32,Public Welfare,Job fairs organized by the government are very helpful.,Neutral,14-09-2024,job fairs organized by the government are very helpful,1
+33,Healthcare,Government hospital staff was very rude.,Positive,12-06-2024,government hospital staff was very rude,2
+34,Digital Services,The new mobile app for public services is user-friendly.,Positive,15-03-2023,the new mobile app for public services is userfriendly,2
+35,Electricity,Power cuts are frequent in my area.,Positive,27-12-2024,power cuts are frequent in my area,2
+36,Road Infrastructure,Better road signs and signals are needed in rural areas.,Neutral,23-08-2023,better road signs and signals are needed in rural areas,1
+37,Water Supply,Drinking water quality has improved recently.,Neutral,20-06-2024,drinking water quality has improved recently,1
+38,Sanitation,Public toilets need better maintenance.,Neutral,17-12-2023,public toilets need better maintenance,1
+39,Digital Services,Government websites often crash during peak hours.,Neutral,14-04-2023,government websites often crash during peak hours,1
+40,Sanitation,More dustbins should be placed in public areas.,Negative,21-07-2024,more dustbins should be placed in public areas,0
+41,Healthcare,Government hospital staff was very rude.,Neutral,26-01-2023,government hospital staff was very rude,1
+42,Public Welfare,There should be more transparency in government welfare programs.,Negative,19-08-2023,there should be more transparency in government welfare programs,0
+43,Digital Services,The new mobile app for public services is user-friendly.,Positive,06-04-2023,the new mobile app for public services is userfriendly,2
+44,Road Infrastructure,New flyovers have reduced traffic congestion.,Negative,11-03-2024,new flyovers have reduced traffic congestion,0
+45,Sanitation,More dustbins should be placed in public areas.,Neutral,28-12-2023,more dustbins should be placed in public areas,1
+46,Law & Order,Street crimes have increased in recent months.,Neutral,27-07-2023,street crimes have increased in recent months,1
+47,Sanitation,More dustbins should be placed in public areas.,Positive,12-01-2024,more dustbins should be placed in public areas,2
+48,Road Infrastructure,Potholes on highways are dangerous.,Neutral,06-08-2023,potholes on highways are dangerous,1
+49,Public Welfare,There should be more transparency in government welfare programs.,Neutral,09-06-2024,there should be more transparency in government welfare programs,1
+50,Sanitation,More dustbins should be placed in public areas.,Negative,24-04-2023,more dustbins should be placed in public areas,0
+51,Digital Services,The new mobile app for public services is user-friendly.,Negative,08-02-2024,the new mobile app for public services is userfriendly,0
+52,Water Supply,There should be more awareness about water conservation.,Positive,13-05-2024,there should be more awareness about water conservation,2
+53,Healthcare,Government hospital staff was very rude.,Positive,22-05-2024,government hospital staff was very rude,2
+54,Electricity,Streetlights are not working properly.,Neutral,14-05-2023,streetlights are not working properly,1
+55,Public Transport,"Public transport needs better safety measures, especially at night.",Positive,28-10-2024,public transport needs better safety measures especially at night,2
+56,Public Transport,Traffic congestion is getting worse due to poor planning.,Negative,28-05-2023,traffic congestion is getting worse due to poor planning,0
+57,Law & Order,Street crimes have increased in recent months.,Negative,21-10-2023,street crimes have increased in recent months,0
+58,Education,Online learning resources provided by the government are useful.,Negative,27-05-2024,online learning resources provided by the government are useful,0
+59,Law & Order,Street crimes have increased in recent months.,Neutral,03-01-2024,street crimes have increased in recent months,1
+60,Public Welfare,There should be more transparency in government welfare programs.,Neutral,13-02-2023,there should be more transparency in government welfare programs,1
+61,Public Transport,Need more bus stops in suburban areas.,Neutral,27-09-2023,need more bus stops in suburban areas,1
+62,Public Welfare,There should be more transparency in government welfare programs.,Neutral,18-04-2024,there should be more transparency in government welfare programs,1
+63,Road Infrastructure,Better road signs and signals are needed in rural areas.,Neutral,14-10-2024,better road signs and signals are needed in rural areas,1
+64,Education,The new education policy is beneficial for students.,Negative,19-10-2023,the new education policy is beneficial for students,0
+65,Digital Services,The passport application process was smooth and quick.,Neutral,13-02-2024,the passport application process was smooth and quick,1
+66,Healthcare,Government hospital staff was very rude.,Neutral,12-08-2024,government hospital staff was very rude,1
+67,Water Supply,Water supply is irregular in my locality.,Negative,03-11-2023,water supply is irregular in my locality,0
+68,Law & Order,The new security cameras have improved safety.,Neutral,03-06-2023,the new security cameras have improved safety,1
+69,Public Transport,Need more bus stops in suburban areas.,Positive,21-02-2024,need more bus stops in suburban areas,2
+70,Electricity,The new solar power initiatives are great.,Neutral,04-08-2023,the new solar power initiatives are great,1
+71,Electricity,Electricity bills are increasing without clear justification.,Positive,19-08-2024,electricity bills are increasing without clear justification,2
+72,Electricity,Power cuts are frequent in my area.,Positive,09-04-2024,power cuts are frequent in my area,2
+73,Education,Midday meal quality should be monitored more strictly.,Neutral,06-05-2024,midday meal quality should be monitored more strictly,1
+74,Road Infrastructure,Better road signs and signals are needed in rural areas.,Neutral,03-05-2023,better road signs and signals are needed in rural areas,1
+75,Electricity,Streetlights are not working properly.,Negative,05-07-2023,streetlights are not working properly,0
+76,Healthcare,Waiting times at public hospitals are too long.,Positive,23-09-2024,waiting times at public hospitals are too long,2
+77,Sanitation,Public toilets need better maintenance.,Neutral,23-11-2023,public toilets need better maintenance,1
+78,Electricity,Streetlights are not working properly.,Neutral,08-02-2023,streetlights are not working properly,1
+79,Healthcare,Medicines are often out of stock at government pharmacies.,Positive,08-09-2023,medicines are often out of stock at government pharmacies,2
+80,Public Transport,"Public transport needs better safety measures, especially at night.",Positive,12-09-2023,public transport needs better safety measures especially at night,2
+81,Road Infrastructure,Footpaths should be maintained better for pedestrians.,Neutral,18-05-2024,footpaths should be maintained better for pedestrians,1
+82,Education,Midday meal quality should be monitored more strictly.,Positive,21-06-2024,midday meal quality should be monitored more strictly,2
+83,Healthcare,Ambulance services are not timely and need improvement.,Negative,11-02-2024,ambulance services are not timely and need improvement,0
+84,Road Infrastructure,Footpaths should be maintained better for pedestrians.,Negative,06-09-2023,footpaths should be maintained better for pedestrians,0
+85,Electricity,Electricity bills are increasing without clear justification.,Negative,10-02-2024,electricity bills are increasing without clear justification,0
+86,Electricity,Power cuts are frequent in my area.,Negative,14-09-2023,power cuts are frequent in my area,0
+87,Law & Order,There are too many traffic rule violations happening.,Neutral,16-11-2023,there are too many traffic rule violations happening,1
+88,Public Transport,Traffic congestion is getting worse due to poor planning.,Negative,11-10-2024,traffic congestion is getting worse due to poor planning,0
+89,Road Infrastructure,Footpaths should be maintained better for pedestrians.,Negative,05-02-2024,footpaths should be maintained better for pedestrians,0
+90,Electricity,Streetlights are not working properly.,Neutral,13-02-2023,streetlights are not working properly,1
+91,Digital Services,The new mobile app for public services is user-friendly.,Neutral,03-05-2023,the new mobile app for public services is userfriendly,1
+92,Sanitation,Garbage collection is not regular in our area.,Positive,16-04-2023,garbage collection is not regular in our area,2
+93,Healthcare,Government hospital staff was very rude.,Positive,19-09-2023,government hospital staff was very rude,2
+94,Water Supply,"Water pipelines keep leaking, causing wastage.",Negative,25-01-2024,water pipelines keep leaking causing wastage,0
+95,Water Supply,There should be more awareness about water conservation.,Negative,28-09-2023,there should be more awareness about water conservation,0
+96,Electricity,The new solar power initiatives are great.,Negative,08-04-2024,the new solar power initiatives are great,0
+97,Healthcare,Medicines are often out of stock at government pharmacies.,Negative,03-03-2023,medicines are often out of stock at government pharmacies,0
+98,Public Welfare,Job fairs organized by the government are very helpful.,Neutral,08-10-2024,job fairs organized by the government are very helpful,1
+99,Education,The new education policy is beneficial for students.,Positive,06-04-2023,the new education policy is beneficial for students,2
+100,Digital Services,E-governance services need better customer support.,Neutral,08-03-2023,egovernance services need better customer support,1
+101,Education,The new education policy is beneficial for students.,Positive,03-07-2023,the new education policy is beneficial for students,2
+102,Law & Order,The new security cameras have improved safety.,Neutral,19-01-2024,the new security cameras have improved safety,1
+103,Education,Online learning resources provided by the government are useful.,Negative,25-02-2024,online learning resources provided by the government are useful,0
+104,Education,Government schools need more qualified teachers.,Negative,16-04-2023,government schools need more qualified teachers,0
+105,Sanitation,Drainage systems get blocked during monsoons.,Neutral,26-02-2023,drainage systems get blocked during monsoons,1
+106,Public Transport,"Metro services are efficient, but the fares are increasing.",Negative,24-09-2024,metro services are efficient but the fares are increasing,0
+107,Road Infrastructure,Potholes on highways are dangerous.,Positive,20-04-2023,potholes on highways are dangerous,2
+108,Road Infrastructure,Footpaths should be maintained better for pedestrians.,Positive,22-09-2023,footpaths should be maintained better for pedestrians,2
+109,Law & Order,Street crimes have increased in recent months.,Positive,04-04-2024,street crimes have increased in recent months,2
+110,Sanitation,Drainage systems get blocked during monsoons.,Positive,18-04-2023,drainage systems get blocked during monsoons,2
+111,Law & Order,Law enforcement should be stricter in market areas.,Neutral,11-06-2023,law enforcement should be stricter in market areas,1
+112,Law & Order,Law enforcement should be stricter in market areas.,Neutral,13-07-2024,law enforcement should be stricter in market areas,1
+113,Digital Services,Government websites often crash during peak hours.,Neutral,04-09-2024,government websites often crash during peak hours,1
+114,Public Welfare,Subsidized food programs help low-income families.,Neutral,09-01-2024,subsidized food programs help lowincome families,1
+115,Road Infrastructure,Better road signs and signals are needed in rural areas.,Positive,20-07-2024,better road signs and signals are needed in rural areas,2
+116,Digital Services,The new mobile app for public services is user-friendly.,Positive,19-09-2023,the new mobile app for public services is userfriendly,2
+117,Public Welfare,Subsidized food programs help low-income families.,Positive,28-03-2023,subsidized food programs help lowincome families,2
+118,Law & Order,The new security cameras have improved safety.,Positive,03-03-2023,the new security cameras have improved safety,2
+119,Healthcare,Medicines are often out of stock at government pharmacies.,Positive,15-08-2023,medicines are often out of stock at government pharmacies,2
+120,Healthcare,Medicines are often out of stock at government pharmacies.,Neutral,24-04-2023,medicines are often out of stock at government pharmacies,1
+121,Digital Services,Government websites often crash during peak hours.,Negative,09-09-2024,government websites often crash during peak hours,0
+122,Sanitation,"Sanitation workers do a great job, but they need better equipment.",Neutral,12-12-2024,sanitation workers do a great job but they need better equipment,1
+123,Law & Order,The new security cameras have improved safety.,Positive,11-01-2023,the new security cameras have improved safety,2
+124,Electricity,The new solar power initiatives are great.,Neutral,26-01-2023,the new solar power initiatives are great,1
+125,Road Infrastructure,Road construction takes too long to complete.,Neutral,11-05-2024,road construction takes too long to complete,1
+126,Healthcare,Ambulance services are not timely and need improvement.,Positive,13-01-2024,ambulance services are not timely and need improvement,2
+127,Road Infrastructure,Potholes on highways are dangerous.,Negative,11-05-2023,potholes on highways are dangerous,0
+128,Sanitation,Garbage collection is not regular in our area.,Positive,17-06-2023,garbage collection is not regular in our area,2
+129,Digital Services,The new mobile app for public services is user-friendly.,Negative,06-11-2023,the new mobile app for public services is userfriendly,0
+130,Public Welfare,Public housing projects need better maintenance.,Neutral,01-02-2023,public housing projects need better maintenance,1
+131,Digital Services,The new mobile app for public services is user-friendly.,Neutral,18-05-2024,the new mobile app for public services is userfriendly,1
+132,Digital Services,E-governance services need better customer support.,Neutral,17-06-2023,egovernance services need better customer support,1
+133,Law & Order,There are too many traffic rule violations happening.,Negative,02-06-2023,there are too many traffic rule violations happening,0
+134,Public Welfare,There should be more transparency in government welfare programs.,Neutral,14-03-2023,there should be more transparency in government welfare programs,1
+135,Law & Order,Street crimes have increased in recent months.,Negative,22-05-2024,street crimes have increased in recent months,0
+136,Public Transport,Traffic congestion is getting worse due to poor planning.,Negative,19-09-2023,traffic congestion is getting worse due to poor planning,0
+137,Public Transport,Need more bus stops in suburban areas.,Negative,12-08-2024,need more bus stops in suburban areas,0
+138,Public Transport,Traffic congestion is getting worse due to poor planning.,Negative,16-02-2023,traffic congestion is getting worse due to poor planning,0
+139,Healthcare,Medicines are often out of stock at government pharmacies.,Negative,13-04-2024,medicines are often out of stock at government pharmacies,0
+140,Road Infrastructure,New flyovers have reduced traffic congestion.,Positive,06-08-2023,new flyovers have reduced traffic congestion,2
+141,Public Transport,Need more bus stops in suburban areas.,Negative,17-11-2023,need more bus stops in suburban areas,0
+142,Public Welfare,Subsidized food programs help low-income families.,Negative,14-05-2023,subsidized food programs help lowincome families,0
+143,Law & Order,The new security cameras have improved safety.,Neutral,02-12-2023,the new security cameras have improved safety,1
+144,Education,Public libraries need better funding.,Negative,27-02-2023,public libraries need better funding,0
+145,Public Welfare,Subsidized food programs help low-income families.,Negative,05-01-2024,subsidized food programs help lowincome families,0
+146,Healthcare,Medicines are often out of stock at government pharmacies.,Neutral,14-05-2024,medicines are often out of stock at government pharmacies,1
+147,Education,The new education policy is beneficial for students.,Neutral,14-02-2023,the new education policy is beneficial for students,1
+148,Public Welfare,Job fairs organized by the government are very helpful.,Negative,01-05-2024,job fairs organized by the government are very helpful,0
+149,Digital Services,The passport application process was smooth and quick.,Negative,03-04-2024,the passport application process was smooth and quick,0
+150,Digital Services,The new mobile app for public services is user-friendly.,Negative,20-07-2024,the new mobile app for public services is userfriendly,0
+151,Electricity,More electric vehicle charging stations should be installed.,Negative,02-04-2024,more electric vehicle charging stations should be installed,0
+152,Public Transport,Need more bus stops in suburban areas.,Negative,27-08-2023,need more bus stops in suburban areas,0
+153,Law & Order,Law enforcement should be stricter in market areas.,Negative,19-03-2023,law enforcement should be stricter in market areas,0
+154,Road Infrastructure,New flyovers have reduced traffic congestion.,Positive,24-10-2023,new flyovers have reduced traffic congestion,2
+155,Public Transport,Need more bus stops in suburban areas.,Negative,07-11-2023,need more bus stops in suburban areas,0
+156,Road Infrastructure,Better road signs and signals are needed in rural areas.,Negative,28-05-2024,better road signs and signals are needed in rural areas,0
+157,Digital Services,The new mobile app for public services is user-friendly.,Neutral,22-05-2024,the new mobile app for public services is userfriendly,1
+158,Education,Public libraries need better funding.,Positive,12-09-2023,public libraries need better funding,2
+159,Sanitation,Public toilets need better maintenance.,Positive,02-09-2024,public toilets need better maintenance,2
+160,Law & Order,There are too many traffic rule violations happening.,Negative,21-10-2024,there are too many traffic rule violations happening,0
+161,Water Supply,There should be more awareness about water conservation.,Positive,28-08-2024,there should be more awareness about water conservation,2
+162,Law & Order,There are too many traffic rule violations happening.,Negative,06-11-2023,there are too many traffic rule violations happening,0
+163,Water Supply,There should be more awareness about water conservation.,Neutral,20-02-2024,there should be more awareness about water conservation,1
+164,Water Supply,Water supply is irregular in my locality.,Negative,18-02-2023,water supply is irregular in my locality,0
+165,Public Welfare,Public housing projects need better maintenance.,Positive,18-09-2024,public housing projects need better maintenance,2
+166,Sanitation,Drainage systems get blocked during monsoons.,Neutral,16-06-2023,drainage systems get blocked during monsoons,1
+167,Healthcare,The free vaccination drive was well-organized.,Positive,21-03-2024,the free vaccination drive was wellorganized,2
+168,Law & Order,There are too many traffic rule violations happening.,Neutral,06-02-2024,there are too many traffic rule violations happening,1
+169,Education,Government schools need more qualified teachers.,Neutral,14-03-2023,government schools need more qualified teachers,1
+170,Public Transport,"Metro services are efficient, but the fares are increasing.",Negative,21-08-2023,metro services are efficient but the fares are increasing,0
+171,Public Transport,"Metro services are efficient, but the fares are increasing.",Positive,24-02-2024,metro services are efficient but the fares are increasing,2
+172,Electricity,The new solar power initiatives are great.,Neutral,28-05-2023,the new solar power initiatives are great,1
+173,Public Welfare,The pension scheme process is very complicated.,Positive,14-04-2024,the pension scheme process is very complicated,2
+174,Education,The new education policy is beneficial for students.,Positive,13-11-2023,the new education policy is beneficial for students,2
+175,Law & Order,Police response time is too slow.,Positive,19-04-2024,police response time is too slow,2
+176,Digital Services,The passport application process was smooth and quick.,Neutral,26-01-2024,the passport application process was smooth and quick,1
+177,Public Welfare,Subsidized food programs help low-income families.,Negative,02-03-2024,subsidized food programs help lowincome families,0
+178,Law & Order,Street crimes have increased in recent months.,Negative,18-02-2023,street crimes have increased in recent months,0
+179,Electricity,Streetlights are not working properly.,Neutral,09-09-2023,streetlights are not working properly,1
+180,Law & Order,Street crimes have increased in recent months.,Positive,08-09-2024,street crimes have increased in recent months,2
+181,Electricity,The new solar power initiatives are great.,Negative,25-06-2023,the new solar power initiatives are great,0
+182,Road Infrastructure,Better road signs and signals are needed in rural areas.,Negative,13-05-2024,better road signs and signals are needed in rural areas,0
+183,Electricity,Streetlights are not working properly.,Positive,13-03-2024,streetlights are not working properly,2
+184,Water Supply,Sewage water is mixing with drinking water in some areas.,Neutral,22-08-2024,sewage water is mixing with drinking water in some areas,1
+185,Public Welfare,There should be more transparency in government welfare programs.,Neutral,19-08-2024,there should be more transparency in government welfare programs,1
+186,Electricity,Streetlights are not working properly.,Negative,21-04-2023,streetlights are not working properly,0
+187,Water Supply,Water supply is irregular in my locality.,Positive,19-12-2024,water supply is irregular in my locality,2
+188,Public Transport,Buses are always late and overcrowded.,Negative,05-07-2023,buses are always late and overcrowded,0
+189,Public Transport,Need more bus stops in suburban areas.,Neutral,27-09-2023,need more bus stops in suburban areas,1
+190,Public Transport,"Public transport needs better safety measures, especially at night.",Neutral,13-08-2023,public transport needs better safety measures especially at night,1
+191,Public Transport,Need more bus stops in suburban areas.,Negative,17-05-2024,need more bus stops in suburban areas,0
+192,Electricity,Streetlights are not working properly.,Negative,21-11-2023,streetlights are not working properly,0
+193,Public Transport,"Metro services are efficient, but the fares are increasing.",Negative,26-04-2024,metro services are efficient but the fares are increasing,0
+194,Electricity,More electric vehicle charging stations should be installed.,Negative,24-12-2024,more electric vehicle charging stations should be installed,0
+195,Public Transport,Need more bus stops in suburban areas.,Negative,01-12-2023,need more bus stops in suburban areas,0
+196,Water Supply,Sewage water is mixing with drinking water in some areas.,Neutral,24-08-2023,sewage water is mixing with drinking water in some areas,1
+197,Education,Midday meal quality should be monitored more strictly.,Negative,07-01-2024,midday meal quality should be monitored more strictly,0
+198,Electricity,Electricity bills are increasing without clear justification.,Negative,25-10-2024,electricity bills are increasing without clear justification,0
+199,Healthcare,Medicines are often out of stock at government pharmacies.,Positive,18-08-2023,medicines are often out of stock at government pharmacies,2
+200,Public Transport,Need more bus stops in suburban areas.,Negative,13-07-2023,need more bus stops in suburban areas,0
+201,Education,The new education policy is beneficial for students.,Positive,24-06-2023,the new education policy is beneficial for students,2
+202,Healthcare,The free vaccination drive was well-organized.,Negative,15-05-2024,the free vaccination drive was wellorganized,0
+203,Public Welfare,There should be more transparency in government welfare programs.,Neutral,21-08-2024,there should be more transparency in government welfare programs,1
+204,Water Supply,Water supply is irregular in my locality.,Negative,03-07-2024,water supply is irregular in my locality,0
+205,Public Welfare,The pension scheme process is very complicated.,Negative,28-02-2023,the pension scheme process is very complicated,0
+206,Public Welfare,The pension scheme process is very complicated.,Negative,05-08-2024,the pension scheme process is very complicated,0
+207,Education,Public libraries need better funding.,Positive,13-10-2023,public libraries need better funding,2
+208,Public Welfare,The pension scheme process is very complicated.,Positive,23-05-2024,the pension scheme process is very complicated,2
+209,Digital Services,E-governance services need better customer support.,Neutral,01-07-2023,egovernance services need better customer support,1
+210,Public Transport,Traffic congestion is getting worse due to poor planning.,Negative,11-01-2024,traffic congestion is getting worse due to poor planning,0
+211,Public Welfare,There should be more transparency in government welfare programs.,Positive,14-08-2023,there should be more transparency in government welfare programs,2
+212,Road Infrastructure,Potholes on highways are dangerous.,Neutral,20-03-2023,potholes on highways are dangerous,1
+213,Road Infrastructure,Footpaths should be maintained better for pedestrians.,Negative,06-07-2023,footpaths should be maintained better for pedestrians,0
+214,Water Supply,There should be more awareness about water conservation.,Negative,09-07-2024,there should be more awareness about water conservation,0
+215,Digital Services,Government websites often crash during peak hours.,Negative,20-03-2023,government websites often crash during peak hours,0
+216,Law & Order,Police response time is too slow.,Neutral,06-01-2023,police response time is too slow,1
+217,Public Transport,Traffic congestion is getting worse due to poor planning.,Positive,27-06-2023,traffic congestion is getting worse due to poor planning,2
+218,Electricity,More electric vehicle charging stations should be installed.,Neutral,22-03-2024,more electric vehicle charging stations should be installed,1
+219,Digital Services,Government websites often crash during peak hours.,Negative,18-11-2024,government websites often crash during peak hours,0
+220,Sanitation,More dustbins should be placed in public areas.,Neutral,11-05-2024,more dustbins should be placed in public areas,1
+221,Healthcare,Waiting times at public hospitals are too long.,Negative,25-01-2024,waiting times at public hospitals are too long,0
+222,Public Welfare,Job fairs organized by the government are very helpful.,Positive,10-12-2023,job fairs organized by the government are very helpful,2
+223,Education,Online learning resources provided by the government are useful.,Neutral,03-10-2023,online learning resources provided by the government are useful,1
+224,Sanitation,Garbage collection is not regular in our area.,Neutral,27-05-2023,garbage collection is not regular in our area,1
+225,Digital Services,The new mobile app for public services is user-friendly.,Negative,27-07-2024,the new mobile app for public services is userfriendly,0
+226,Public Transport,Need more bus stops in suburban areas.,Neutral,04-04-2024,need more bus stops in suburban areas,1
+227,Road Infrastructure,Potholes on highways are dangerous.,Neutral,11-09-2023,potholes on highways are dangerous,1
+228,Digital Services,E-governance services need better customer support.,Neutral,09-07-2024,egovernance services need better customer support,1
+229,Road Infrastructure,Road construction takes too long to complete.,Positive,18-09-2023,road construction takes too long to complete,2
+230,Public Transport,Buses are always late and overcrowded.,Positive,24-09-2023,buses are always late and overcrowded,2
+231,Digital Services,E-governance services need better customer support.,Neutral,08-08-2023,egovernance services need better customer support,1
+232,Education,Online learning resources provided by the government are useful.,Negative,02-04-2024,online learning resources provided by the government are useful,0
+233,Law & Order,Police response time is too slow.,Neutral,23-07-2023,police response time is too slow,1
+234,Digital Services,Government websites often crash during peak hours.,Positive,24-12-2024,government websites often crash during peak hours,2
+235,Healthcare,The free vaccination drive was well-organized.,Neutral,24-09-2024,the free vaccination drive was wellorganized,1
+236,Sanitation,Drainage systems get blocked during monsoons.,Negative,28-10-2024,drainage systems get blocked during monsoons,0
+237,Healthcare,Medicines are often out of stock at government pharmacies.,Positive,06-11-2024,medicines are often out of stock at government pharmacies,2
+238,Electricity,More electric vehicle charging stations should be installed.,Negative,11-06-2024,more electric vehicle charging stations should be installed,0
+239,Digital Services,E-governance services need better customer support.,Negative,10-04-2024,egovernance services need better customer support,0
+240,Water Supply,There should be more awareness about water conservation.,Positive,27-06-2024,there should be more awareness about water conservation,2
+241,Healthcare,The free vaccination drive was well-organized.,Positive,18-06-2023,the free vaccination drive was wellorganized,2
+242,Education,Public libraries need better funding.,Positive,19-04-2023,public libraries need better funding,2
+243,Education,The new education policy is beneficial for students.,Positive,19-09-2023,the new education policy is beneficial for students,2
+244,Digital Services,E-governance services need better customer support.,Neutral,17-03-2023,egovernance services need better customer support,1
+245,Road Infrastructure,Footpaths should be maintained better for pedestrians.,Positive,07-04-2024,footpaths should be maintained better for pedestrians,2
+246,Electricity,The new solar power initiatives are great.,Positive,18-08-2024,the new solar power initiatives are great,2
+247,Electricity,Electricity bills are increasing without clear justification.,Neutral,19-02-2024,electricity bills are increasing without clear justification,1
+248,Law & Order,There are too many traffic rule violations happening.,Neutral,13-05-2024,there are too many traffic rule violations happening,1
+249,Water Supply,Water supply is irregular in my locality.,Negative,05-01-2023,water supply is irregular in my locality,0
+250,Public Transport,Traffic congestion is getting worse due to poor planning.,Negative,28-04-2023,traffic congestion is getting worse due to poor planning,0
+251,Public Welfare,Subsidized food programs help low-income families.,Positive,06-09-2024,subsidized food programs help lowincome families,2
+252,Public Transport,"Metro services are efficient, but the fares are increasing.",Negative,10-04-2023,metro services are efficient but the fares are increasing,0
+253,Digital Services,Online tax filing is very convenient now.,Positive,16-11-2023,online tax filing is very convenient now,2
+254,Water Supply,Water supply is irregular in my locality.,Neutral,26-07-2023,water supply is irregular in my locality,1
+255,Water Supply,Sewage water is mixing with drinking water in some areas.,Negative,18-01-2023,sewage water is mixing with drinking water in some areas,0
+256,Sanitation,Public toilets need better maintenance.,Negative,24-09-2023,public toilets need better maintenance,0
+257,Water Supply,"Water pipelines keep leaking, causing wastage.",Neutral,26-03-2023,water pipelines keep leaking causing wastage,1
+258,Electricity,Electricity bills are increasing without clear justification.,Neutral,24-01-2023,electricity bills are increasing without clear justification,1
+259,Public Welfare,Job fairs organized by the government are very helpful.,Neutral,02-09-2024,job fairs organized by the government are very helpful,1
+260,Water Supply,There should be more awareness about water conservation.,Negative,06-10-2024,there should be more awareness about water conservation,0
+261,Public Welfare,Job fairs organized by the government are very helpful.,Positive,22-09-2024,job fairs organized by the government are very helpful,2
+262,Education,Online learning resources provided by the government are useful.,Positive,07-05-2023,online learning resources provided by the government are useful,2
+263,Public Transport,"Metro services are efficient, but the fares are increasing.",Negative,02-02-2024,metro services are efficient but the fares are increasing,0
+264,Public Transport,"Public transport needs better safety measures, especially at night.",Negative,15-04-2024,public transport needs better safety measures especially at night,0
+265,Law & Order,Police response time is too slow.,Neutral,13-03-2023,police response time is too slow,1
+266,Digital Services,The passport application process was smooth and quick.,Negative,07-02-2023,the passport application process was smooth and quick,0
+267,Electricity,More electric vehicle charging stations should be installed.,Positive,10-08-2024,more electric vehicle charging stations should be installed,2
+268,Road Infrastructure,Potholes on highways are dangerous.,Positive,14-12-2023,potholes on highways are dangerous,2
+269,Road Infrastructure,Footpaths should be maintained better for pedestrians.,Positive,25-07-2023,footpaths should be maintained better for pedestrians,2
+270,Water Supply,There should be more awareness about water conservation.,Positive,23-05-2024,there should be more awareness about water conservation,2
+271,Law & Order,Police response time is too slow.,Negative,01-10-2023,police response time is too slow,0
+272,Public Transport,"Metro services are efficient, but the fares are increasing.",Negative,04-11-2024,metro services are efficient but the fares are increasing,0
+273,Healthcare,Ambulance services are not timely and need improvement.,Negative,25-06-2023,ambulance services are not timely and need improvement,0
+274,Water Supply,"Water pipelines keep leaking, causing wastage.",Negative,24-05-2023,water pipelines keep leaking causing wastage,0
+275,Electricity,More electric vehicle charging stations should be installed.,Positive,22-08-2023,more electric vehicle charging stations should be installed,2
+276,Healthcare,Ambulance services are not timely and need improvement.,Neutral,24-05-2024,ambulance services are not timely and need improvement,1
+277,Digital Services,The passport application process was smooth and quick.,Negative,19-02-2023,the passport application process was smooth and quick,0
+278,Healthcare,Ambulance services are not timely and need improvement.,Neutral,16-06-2024,ambulance services are not timely and need improvement,1
+279,Education,The new education policy is beneficial for students.,Positive,26-12-2023,the new education policy is beneficial for students,2
+280,Sanitation,More dustbins should be placed in public areas.,Positive,19-10-2024,more dustbins should be placed in public areas,2
+281,Water Supply,Drinking water quality has improved recently.,Negative,25-11-2023,drinking water quality has improved recently,0
+282,Electricity,The new solar power initiatives are great.,Positive,08-10-2023,the new solar power initiatives are great,2
+283,Digital Services,The passport application process was smooth and quick.,Positive,22-02-2024,the passport application process was smooth and quick,2
+284,Healthcare,Waiting times at public hospitals are too long.,Neutral,28-06-2024,waiting times at public hospitals are too long,1
+285,Public Welfare,Subsidized food programs help low-income families.,Neutral,08-11-2023,subsidized food programs help lowincome families,1
+286,Sanitation,More dustbins should be placed in public areas.,Negative,05-05-2023,more dustbins should be placed in public areas,0
+287,Water Supply,"Water pipelines keep leaking, causing wastage.",Positive,25-04-2024,water pipelines keep leaking causing wastage,2
+288,Digital Services,E-governance services need better customer support.,Neutral,01-04-2024,egovernance services need better customer support,1
+289,Digital Services,The passport application process was smooth and quick.,Negative,25-11-2024,the passport application process was smooth and quick,0
+290,Healthcare,Medicines are often out of stock at government pharmacies.,Neutral,15-08-2024,medicines are often out of stock at government pharmacies,1
+291,Healthcare,Ambulance services are not timely and need improvement.,Positive,05-05-2023,ambulance services are not timely and need improvement,2
+292,Digital Services,E-governance services need better customer support.,Positive,20-11-2023,egovernance services need better customer support,2
+293,Water Supply,"Water pipelines keep leaking, causing wastage.",Negative,03-12-2024,water pipelines keep leaking causing wastage,0
+294,Law & Order,The new security cameras have improved safety.,Negative,21-07-2024,the new security cameras have improved safety,0
+295,Healthcare,Ambulance services are not timely and need improvement.,Positive,19-10-2023,ambulance services are not timely and need improvement,2
+296,Healthcare,Ambulance services are not timely and need improvement.,Negative,23-06-2023,ambulance services are not timely and need improvement,0
+297,Road Infrastructure,Footpaths should be maintained better for pedestrians.,Negative,18-09-2023,footpaths should be maintained better for pedestrians,0
+298,Water Supply,Sewage water is mixing with drinking water in some areas.,Negative,13-10-2024,sewage water is mixing with drinking water in some areas,0
+299,Public Transport,Buses are always late and overcrowded.,Negative,26-11-2024,buses are always late and overcrowded,0
+300,Public Transport,Buses are always late and overcrowded.,Positive,20-08-2024,buses are always late and overcrowded,2
